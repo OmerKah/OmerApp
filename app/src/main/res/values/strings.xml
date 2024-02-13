@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OmerApp</string>
+    <string-array name="hazards_array">
+        <item>זבל</item>
+        <item>זיהום אווירי</item>
+        <item>זיהום ימי</item>
+        <item>מפגע כביש</item>
+        <item>סתימת ביוב</item>
+        <item>ניקוז מקולקל</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="urgency_hazards">
+        <item>לא דחוף</item>
+        <item>דחוף</item>
+        <item>דחוף מאוד</item>
+        <item>קריטי</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395972380312",
+    "project_id": "omerapp-d588b",
+    "storage_bucket": "omerapp-d588b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395972380312:android:c250825df289a2f77a32ed",
+        "android_client_info": {
+          "package_name": "com.example.omerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxBXd19enloRVJ9ai1CVIjI4d4gqtUrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
